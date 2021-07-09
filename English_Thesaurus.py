@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon May 10 11:22:14 2021
-
+This is a dictionary python program
 @author: Haochen Zhang
 """
 import json
